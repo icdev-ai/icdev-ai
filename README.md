@@ -18,7 +18,7 @@
 [![Languages](https://img.shields.io/badge/Languages-6_First--Class-0078d4?style=flat-square)](.)
 [![Cloud](https://img.shields.io/badge/Cloud_Providers-6_CSPs-ff6f00?style=flat-square)](.)
 [![Tests](https://img.shields.io/badge/Tests-3,800+-25a162?style=flat-square)](.)
-[![License](https://img.shields.io/badge/License-AGPL--3.0_+_Commercial-blue?style=flat-square)](.)
+[![License](https://img.shields.io/badge/License-Apache--2.0_+_Commercial-blue?style=flat-square)](.)
 
 <br/>
 
@@ -613,7 +613,7 @@ python tools/installer/installer.py --interactive
 ## License
 
 Dual-licensed:
-- **AGPL-3.0** — Open source (government transparency obligations)
+- **Apache License 2.0** — Free for use, modification, and distribution with patent protection
 - **Commercial** — Available for proprietary deployments
 
 ---

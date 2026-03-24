@@ -9,6 +9,8 @@
 
 ### Autonomous AI Engineering for Trusted Government & Defense Software
 
+🌐 **[icdev.ai](https://icdev.ai/)** • 📚 **[GitHub](https://github.com/icdev-ai)**
+
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -22,14 +24,14 @@
 
 <br/>
 
-> **ICDEV doesn't write code. It engineers complete, ATO-ready, production-grade applications —**
+> **ICDEV™ doesn't write code. It engineers complete, ATO-ready, production-grade applications —**
 > **then those applications engineer their own features.**
 
 > **DISCLAIMER:** This repository does NOT contain classified or Controlled Unclassified Information (CUI). Terms like "CUI", "SECRET", "IL4", "IL5", "IL6" appear throughout as **configuration values and template strings** — not as indicators that this repository itself is classified. Classification terminology references publicly available U.S. government standards ([EO 13526](https://www.archives.gov/isoo/policy-documents/cnsi-eo.html), [32 CFR Part 2002](https://www.ecfr.gov/current/title-32/subtitle-B/chapter-XX/part-2002), [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)). File headers containing `[TEMPLATE: CUI // SP-CTI]` are **template markers** demonstrating the format ICDEV applies to generated artifacts.
 
 <br/>
 
-[Architecture](#architecture) &bull; [Why ICDEV](#why-icdev-exists) &bull; [Capabilities](#capabilities) &bull; [Compliance](#compliance-coverage) &bull; [Agents](#multi-agent-architecture) &bull; [Cloud](#multi-cloud-deployment) &bull; [Metrics](#by-the-numbers)
+[Architecture](#architecture) &bull; [Why ICDEV™](#why-icdev-exists) &bull; [Capabilities](#capabilities) &bull; [Compliance](#compliance-coverage) &bull; [Agents](#multi-agent-architecture) &bull; [Cloud](#multi-cloud-deployment) &bull; [Metrics](#by-the-numbers)
 
 </div>
 
@@ -54,9 +56,9 @@ Building software for the U.S. Government is broken.
 
 ---
 
-## What ICDEV Actually Does
+## What ICDEV™ Actually Does
 
-ICDEV is a **meta-builder** — an autonomous AI engineering platform that generates complete, production-ready, compliance-certified applications. Every application it builds inherits:
+ICDEV™ is a **meta-builder** — an autonomous AI engineering platform that generates complete, production-ready, compliance-certified applications. Every application it builds inherits:
 
 - Full test-driven development (RED → GREEN → REFACTOR)
 - Behavior-driven specifications (Gherkin/Cucumber)
@@ -160,7 +162,7 @@ Every application follows the ATLAS methodology (with optional Model phase for M
 
 ---
 
-## Why ICDEV Exists
+## Why ICDEV™ Exists
 
 ### The Flywheel
 
@@ -232,7 +234,7 @@ Every cycle strengthens the system:
 
 | Capability | What It Means |
 |:---|:---|
-| **Child App Generation** | ICDEV generates mini-ICDEV clones — production applications with their own GOTCHA framework, ATLAS workflow, 10-12 agents, 21 goals, and full compliance stack |
+| **Child App Generation** | ICDEV™ generates mini-ICDEV clones — production applications with their own GOTCHA framework, ATLAS workflow, 10-12 agents, 21 goals, and full compliance stack |
 | **Evolutionary Intelligence** | Capability genome versioning (semver + SHA-256), 72-hour staging window, bidirectional parent-child learning, cross-pollination with HITL approval |
 | **Federated Marketplace** | Share skills, goals, compliance extensions across tenant organizations through a 9-gate security pipeline with IL-aware content filtering |
 | **Innovation Engine** | Autonomous self-improvement: web scanning (CVE, standards, community), 5-dimension scoring, compliance triage, trend detection, solution generation |
@@ -242,7 +244,7 @@ Every cycle strengthens the system:
 
 ## Compliance Coverage
 
-ICDEV implements a **dual-hub crosswalk model**: implement a control once at either hub, and it cascades to every connected framework automatically.
+ICDEV™ implements a **dual-hub crosswalk model**: implement a control once at either hub, and it cascades to every connected framework automatically.
 
 ```
                      ┌─────────────────────────────────┐
@@ -298,7 +300,7 @@ ICDEV implements a **dual-hub crosswalk model**: implement a control once at eit
 
 ## Multi-Cloud Deployment
 
-ICDEV applications deploy to any authorized cloud — or air-gapped on-premises environments — from a single codebase.
+ICDEV™ applications deploy to any authorized cloud — or air-gapped on-premises environments — from a single codebase.
 
 | Cloud Provider | Region | Impact Levels | Key Services |
 |:---|:---|:---|:---|
@@ -355,11 +357,11 @@ Every deployment includes:
 
 ## Child Application Generation
 
-ICDEV generates production-ready child applications — each a mini-ICDEV with its own agents, goals, and compliance stack.
+ICDEV™ generates production-ready child applications — each a mini-ICDEV with its own agents, goals, and compliance stack.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  ICDEV (Parent Platform)                                            │
+│  ICDEV™ (Parent Platform)                                            │
 │                                                                     │
 │  ┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐  │
 │  │  Child App A    │   │  Child App B    │   │  Child App C    │  │
@@ -374,7 +376,7 @@ ICDEV generates production-ready child applications — each a mini-ICDEV with i
 │  │  └───────────┘  │   │  └───────────┘  │   │  └───────────┘  │  │
 │  │                 │   │                 │   │                 │  │
 │  │  Reports back   │   │  Reports back   │   │  Reports back   │  │
-│  │  via A2A ──────────────────────────────────────────▶ ICDEV  │  │
+│  │  via A2A ──────────────────────────────────────────▶ ICDEV™  │  │
 │  └─────────────────┘   └─────────────────┘   └─────────────────┘  │
 │                                                                     │
 │  Evolutionary Intelligence: genome versioning, capability           │
@@ -505,7 +507,7 @@ Customer Need
 
 ## SaaS Multi-Tenancy
 
-ICDEV operates as a multi-tenant SaaS platform with IL-appropriate isolation:
+ICDEV™ operates as a multi-tenant SaaS platform with IL-appropriate isolation:
 
 | Impact Level | Compute Isolation | Database Isolation | Network Isolation |
 |:---|:---|:---|:---|
@@ -548,9 +550,9 @@ ICDEV operates as a multi-tenant SaaS platform with IL-appropriate isolation:
 
 ## What Makes This Different
 
-Most "AI coding tools" are glorified autocomplete. ICDEV is fundamentally different:
+Most "AI coding tools" are glorified autocomplete. ICDEV™ is fundamentally different:
 
-| Typical AI Tool | ICDEV |
+| Typical AI Tool | ICDEV™ |
 |:---|:---|
 | Suggests code snippets | Engineers complete applications |
 | No compliance awareness | 34 compliance frameworks with dual-hub crosswalk |
@@ -564,15 +566,15 @@ Most "AI coding tools" are glorified autocomplete. ICDEV is fundamentally differ
 
 ---
 
-## Built with ICDEV
+## Built with ICDEV™
 
-These production applications were autonomously generated by ICDEV — each with its own agent architecture, compliance stack, TDD pipeline, and full GOTCHA framework.
+These production applications were autonomously generated by ICDEV™ — each with its own agent architecture, compliance stack, TDD pipeline, and full GOTCHA framework.
 
 | Application | Description | Stack | Status |
 |:---|:---|:---|:---|
 | [**GovProposal**](https://github.com/icdev-ai/govproposal) | Government proposal lifecycle platform — SAM.gov opportunity scanning, RFP analysis, AI-assisted section drafting, compliance matrix generation, review workflows, and CPMP post-award tracking | Python, Flask, SQLite, 10 agents, 34 compliance frameworks | Production |
 
-> *This list grows as ICDEV generates more applications. Each child app inherits 10-12 AI agents, 21 goal workflows, full TDD/BDD testing, and multi-cloud deployment — autonomously, from a single requirements intake session.*
+> *This list grows as ICDEV™ generates more applications. Each child app inherits 10-12 AI agents, 21 goal workflows, full TDD/BDD testing, and multi-cloud deployment — autonomously, from a single requirements intake session.*
 
 ---
 
@@ -620,7 +622,7 @@ Dual-licensed:
 
 <div align="center">
 
-**ICDEV — A system that builds systems.**
+**ICDEV™ — A system that builds systems.**
 
 *Autonomous AI engineering for the missions that matter.*
 
